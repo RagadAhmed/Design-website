@@ -1,0 +1,45 @@
+.container {
+    background-image: url(https://media.istockphoto.com/id/1344939844/photo/hand-holding-drawing-virtual-lightbulb-with-brain-on-bokeh-background-for-creative-and-smart.jpg?s=612x612&w=0&k=20&c=2GLUy6eqCSr0NFRO8CHm8_PUMy9Qc8ryqcsRoe0DEYM=); /* Replace 'background-image.jpg' with your image file */
+   background-size: cover; /* Adjust the background size to cover the entire paragraph */
+   background-repeat: no-repeat; /* Prevent the background image from repeating */
+   padding-left: 10px; /* Adjust the left padding to create space for the background image */
+    background-color: rgba(255, 255, 255, 0.2); /* Sets the image opacity to 50% (0 is completely transparent, 1 is completely opaque) */
+}
+
+
+body {    
+   line-height: 1.5; /* Set line height for better readability */
+   
+}
+
+h1 {
+   font-family: "Comic Sans MS", cursive;
+   color: lightblue;
+   display: flex;
+   padding-left: 100px;
+   align-items: center;
+}
+h4{
+ font-family: 'Brush Script MT', cursive;
+   color: red;
+   align-items: left;
+   font-size:x-large;
+}
+p{
+ font-size:medium;
+ color: white;
+ font-family: 'Brush Script MT', cursive;
+  padding-bottom: 20px;
+}
+h5{
+ font-family: 'Brush Script MT', cursive;
+   color: red;
+   align-items: left;
+   font-size:large;
+}
+li{
+ font-size:medium;
+ color: white;
+ font-family: 'Brush Script MT', cursive;
+  padding-bottom: 20px;
+}
